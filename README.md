@@ -9,7 +9,7 @@ class SobreMim extends Desenvolvedor {
 }
 
 class Skills extends Desenvolvedor {
-  linguagens  = ['PHP OO e PDO '];
+  Conhecimentos  = ['PHP OO e PDO Javascript HTML CSS JQUERY Ingles Intermediario '];
   
 }
 ```
